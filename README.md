@@ -5,9 +5,9 @@ This is our team work. We created an analogue of FastQC program. It will work co
 Anna Koroleva,https://github.com/Ann-Krlv (...)
 Valeria Ladygina, (...)
 Leonid Zhozhikov, (...)
-Oksana Kolpakova, https://github.com/OxanaKolpakova (...)
-Brief description of the project:
+Oxana Kolpakova, https://github.com/OxanaKolpakova (...)
 
+Brief description of the project:
 recognition fastQ format, read file
 transforme the quality simbols into numbers by position according to the ASCII table
 make graphs and tables according to ASCII quality data
